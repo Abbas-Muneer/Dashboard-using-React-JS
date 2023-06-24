@@ -1,0 +1,41 @@
+.wide-card {
+    background-color: #242424;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .wide-card h3 {
+    margin: 0;
+    color: #ccc;
+  }
+  
+  .text-container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .text-group2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+  }
+  
+  .count {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .text-group2 p {
+    margin: 0;
+    color: #ccc;
+    align-items: center;
+    justify-content: center;
+  }
+  
